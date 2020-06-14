@@ -2,16 +2,19 @@
   <img src=".github/logo.svg" alt="Logo Next Level Week">
 </h1>
 
+<h3 align="center">
+  <strong>Next Level Week #1 - Ecoleta</strong>
+</h3>
 _________
 
 ### :rocket: O que é a Next Level Week?
-
+<p align="justify">
 O Next Level Week é uma semana prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 
 Através desse método a equipe da Rocketseat pretende apresentar novas ferramentas, novas tecnologias e hacks que vão impulsionar carreiras.
 
 Um evento online e totalmente gratuito que auxilia devs a dar o próximo passo na sua evolução.
-
+</p>
 ### :computer: Projeto
 
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
