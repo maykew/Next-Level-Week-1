@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### :mortar_board: Como executar o projeto
 
-- Faça um clone deste repositório: `git clone `;
+- Faça um clone deste repositório: `git clone https://github.com/maykew/Next-Level-Week-1.git`;
 - Entre no diretório Next-Level-Week-1;
 - Instale as dependências : `npm install`;
 - Inicie a aplicação: `npm start`;
