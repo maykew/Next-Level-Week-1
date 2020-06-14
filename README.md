@@ -27,11 +27,12 @@ _________
 <p align="justify">
 O Next Level Week é uma semana prática com muito código, desafios, networking e um único objetivo: te levar para o próximo nível.
 </p>
-
-Através desse método a equipe da [Rocketseat](https://github.com/Rocketseat)<p align="justify"> pretende apresentar novas ferramentas, novas tecnologias e hacks que vão impulsionar carreiras.
+<p align="justify">
+Através desse método a equipe da Rocketseat pretende apresentar novas ferramentas, novas tecnologias e hacks que vão impulsionar carreiras.
 </p>
 Um evento online e totalmente gratuito que auxilia devs a dar o próximo passo na sua evolução.
 
+Plataforma de educação em tecnologia [Rocketseat](https://github.com/Rocketseat)<br>
 Instrutor do projeto: [Mayk Brito](https://github.com/maykbrito)
 
 ### :computer: Projeto
